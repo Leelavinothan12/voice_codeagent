@@ -1,6 +1,6 @@
 # 🧠 Voice-Driven Python Code Generator with LangChain + Groq
 
-![Voice Python Assistant](Screenshot 2025-07-16 110917.png)
+![Voice Python Assistant](voice_codeagent/Screenshot 2025-07-16 110917.png)
 
 This project is a **voice-activated Python code generator and executor** that uses the **Groq API with LLaMA 3**, **LangChain**, **SpeechRecognition**, and **Text-to-Speech (TTS)** to provide an interactive AI coding assistant.
 
@@ -31,5 +31,5 @@ voice-codeagent/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/voice-code-ai.git
+git clone https://github.com/Leelavinothan12/voice_codeagent/tree/main
 cd voice-code-ai
